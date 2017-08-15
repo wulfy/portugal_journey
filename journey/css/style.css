@@ -189,11 +189,20 @@ a:focus {
 
 /* Top Navigation Style */
 
+.icon-red {
+	color:#db4437;
+}
+
+
 .codrops-links {
 	position: relative;
 	display: inline-block;
 	text-align: center;
 	white-space: nowrap;
+}
+
+.codrops-icon:hover {
+	color:#FFF;
 }
 
 .codrops-links::after {
