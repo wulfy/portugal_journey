@@ -41,8 +41,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="1168"
-     inkscape:window-width="1803"
+     inkscape:window-height="856"
+     inkscape:window-width="1440"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      guidetolerance="10.0"
@@ -53,13 +53,13 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="1.3961102"
-     inkscape:cx="489.16296"
-     inkscape:cy="160.41645"
+     inkscape:zoom="5.5844408"
+     inkscape:cx="345.90779"
+     inkscape:cy="303.67162"
      inkscape:current-layer="svg2"
      inkscape:snap-others="false"
-     inkscape:window-x="1276"
-     inkscape:window-y="0"
+     inkscape:window-x="6"
+     inkscape:window-y="26"
      inkscape:window-maximized="0"
      inkscape:object-paths="false"
      scale-x="2"
@@ -1147,12 +1147,12 @@
   </g>
   <g
      id="trail-path"
-     display="true"
-     style="fill:none;stroke:none;stroke-opacity:1"
+     display="none"
+     style="display:none;fill:none;stroke:none;stroke-opacity:1"
      transform="matrix(1.8567775,0,0,2.8038373,178.59852,-1722.4722)">
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 393.95171,849.51363 v 7.16276 c 54.67572,11.0035 109.35145,14.02337 164.02717,13.60924 44.55333,44.40909 91.28871,88.81818 126.78082,133.22727 43.16285,-17.61549 58.70098,86.7782 80.22289,164.7435 43.69969,-16.0993 140.05688,20.9654 94.54841,-89.5345 13.12606,51.3707 -28.65304,122.2209 -61.59972,14.3255 -60.82545,-36.5868 -68.08063,-89.8428 -82.37173,-138.95752 -62.61304,11.06904 -55.12451,-11.85055 -57.30206,-30.08356"
+       d="m 393.95171,851.12525 v 5.55114 c 54.67572,11.0035 109.35145,14.02337 164.02717,13.60924 44.55333,44.40909 91.28871,88.81818 126.78082,133.22727 43.16285,-17.61549 58.70098,86.7782 80.22289,164.7435 43.69969,-16.0993 140.05688,20.9654 94.54841,-89.5345 13.12606,51.3707 -28.65304,122.2209 -61.59972,14.3255 -60.82545,-36.5868 -68.08063,-89.8428 -82.37173,-138.95752 -62.61304,11.06904 -55.12451,-11.85055 -57.30206,-30.08356"
        id="path1145"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />

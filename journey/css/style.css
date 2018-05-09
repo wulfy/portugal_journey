@@ -42,7 +42,7 @@ a:focus {
 	color: #33b996;
 }
 
-.hidden {
+.hiddenn {
 	position: absolute;
 	overflow: hidden;
 	width: 0;
