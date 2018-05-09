@@ -79,7 +79,7 @@ a:focus {
 	padding: 2em 1em 4em;
 	text-align: center;
 	color: #fff;
-	background: #181922 url(../img/journey/lisbonne.jpg) no-repeat center center;
+	background: #181922 url(../img/journey/costa_luminosa.jpg) no-repeat center center;
 	background-size: cover;
 }
 
@@ -154,18 +154,30 @@ a:focus {
 }
 
 .intro img{
-	width: 60px;
-	height: 60px;
+	width: 120px;
+	height: 120px;
 	border-radius: 60px;
 }
 
+.person_list {
+	 display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 .intro .person{
-	float: left;
-	margin-right: 20px;
+	margin: 5px 5px 5px 5px;
+}
+
+break{
+  flex-basis: 100%;
+  width: 0px; 
+  height: 0px; 
+  overflow: hidden;
 }
 
 .intro .person .name{
-	font-size: 0.5em;
+	font-size: 0.7em;
 	color: #fff;
 	margin:0;
 	padding:0;

@@ -41,8 +41,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="1168"
-     inkscape:window-width="1803"
+     inkscape:window-height="860"
+     inkscape:window-width="1448"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      guidetolerance="10.0"
@@ -54,11 +54,11 @@
      id="base"
      showgrid="false"
      inkscape:zoom="1.3961102"
-     inkscape:cx="489.16296"
+     inkscape:cx="688.64578"
      inkscape:cy="160.41645"
      inkscape:current-layer="svg2"
      inkscape:snap-others="false"
-     inkscape:window-x="1276"
+     inkscape:window-x="-4"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:object-paths="false"
@@ -1160,8 +1160,8 @@
   <g
      id="camera-path"
      name="toto"
-     display="false"
-     style="display:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+     display="true"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
      transform="matrix(-0.35508136,-0.27080883,0.3869846,-0.24848319,199.31295,1184.5151)">
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1195,8 +1195,8 @@
      ry="22.735249" />
   <g
      id="points"
-     display="none"
-     style="display:none;fill:#e70000;fill-opacity:1">
+     display="true"
+     style="fill:#e70000;fill-opacity:1">
     <circle
        id="Fontaines-sur-saône"
        display="inline"

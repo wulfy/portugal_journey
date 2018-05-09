@@ -289,10 +289,13 @@ const CanvasMap=(props)=>{
       })
       this.sectionsIcons=this.sections.map(section=>{
         let icon=section.getAttribute('data-icon')
+        let iconNotScale=section.getAttribute('data-iconNotScale')
         if(icon!=null){
           let iconImg=document.createElement('img')
           iconImg.setAttribute('src',icon)
-          return iconImg
+          let iconNotScaleOption = iconNotScale!= null
+          console.log({iconImg,iconNotScaleOption});
+          return {iconImg,iconNotScaleOption}
         }
         return null
       })
@@ -663,8 +666,8 @@ const CanvasMap=(props)=>{
         )
         this.ctx.rotate(angle)
         let p=pos*1.2
-        let scale=clamp(p<0.5?interpolate(p*2,0,1,easing.quad.out):interpolate((p*2)-1,1,0,easing.quad.in))
-        scale*=0.7
+        let scale= iconNotScaleOption ? 1 : clamp(p<0.5?interpolate(p*2,0,1,easing.quad.out):interpolate((p*2)-1,1,0,easing.quad.in))
+        scale*= 0.7
         this.ctx.scale(scale,scale)
         this.ctx.drawImage(icon,
           -iconCenter.x,
@@ -745,7 +748,9 @@ const CanvasMap=(props)=>{
       let trailTipIndex=Math.round(trailPos/this.trailSubdivisionSize)
       let trailTip=this.trailSubdivisions[clamp(trailTipIndex,this.trailSubdivisions.length-1)]
       let trailTip2=this.trailSubdivisions[clamp(trailTipIndex-1,this.trailSubdivisions.length-1)]
-      let icon=this.sectionsIcons[sectionIndex]
+      let iconData=this.sectionsIcons[sectionIndex]
+      let icon= iconData ? iconData.iconImg : null
+      let iconNotScaleOption= iconData ? iconData.iconNotScaleOption : null
 
 
 
