@@ -41,8 +41,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="751"
-     inkscape:window-width="1280"
+     inkscape:window-height="860"
+     inkscape:window-width="1448"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      guidetolerance="10.0"
@@ -53,14 +53,14 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="5.656854"
-     inkscape:cx="68.927828"
-     inkscape:cy="166.87199"
+     inkscape:zoom="1.3961102"
+     inkscape:cx="688.64578"
+     inkscape:cy="160.41645"
      inkscape:current-layer="svg2"
      inkscape:snap-others="false"
-     inkscape:window-x="0"
-     inkscape:window-y="1"
-     inkscape:window-maximized="1"
+     inkscape:window-x="-4"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:object-paths="false"
      scale-x="2"
      inkscape:snap-global="false" />
@@ -1126,7 +1126,7 @@
       <path
          id="path2574"
          d="M 495.99404,670.66773 L 489.36643,674.13262 L 493.17012,678.82973 L 496.77879,684.08302 L 500.11561,690.1943 L 504.60665,705.27324 L 505.23328,710.06962 L 505.31012,716.02136 L 503.13338,732.2678 L 507.72766,744.83071 L 505.60674,752.57387 L 504.09423,755.4716 L 502.88745,758.0437 L 501.59051,761.77817 L 503.90038,771.15042 L 504.46488,774.41886 L 506.21982,780.16947 L 506.53652,782.78759 L 505.30031,786.79582 L 494.29609,792.11382 L 492.31881,795.85459 L 491.84375,799.55939 L 495.97209,805.10864 L 500.48649,811.1426 L 504.13067,815.98523 L 508.68104,822.00588 L 510.23115,825.97277 L 510.35563,830.0707 L 510.48993,834.46951 L 510.55345,838.78585 L 515.40348,842.08863 L 516.50539,845.81749 L 521.39979,850.46087 L 526.66694,849.29547 L 529.99091,848.10741 L 537.05364,849.88319 L 544.26912,852.03412 L 555.13157,855.22805 L 559.07703,860.62523 L 561.32688,864.76171 L 564.88417,871.27734 L 567.08356,875.27997 L 569.49012,879.65074"
-         style="fill:none;stroke:#646464;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" />
+         style="fill:none;stroke:#646464;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;fill-opacity:1" />
       <path
          sodipodi:nodetypes="cccccccccccccccccccccccc"
          id="path2572"
@@ -1148,25 +1148,26 @@
   <g
      id="trail-path"
      display="true"
-     style="fill:none">
+     style="fill:none;stroke:none;stroke-opacity:1"
+     transform="matrix(1.8567775,0,0,2.8038373,178.59852,-1722.4722)">
     <path
-       style="fill:none;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 394.7825,853.48493 0.23518,3.81948 c 0,0 -30.49029,27.26588 -135.01768,65.03556 C 155.47261,960.10964 60.1434,955.9243 60.1434,955.9243 L 65,983.33997 31.19191,1023.1887"
-       id="path14277"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 393.95171,849.51363 v 7.16276 c 54.67572,11.0035 109.35145,14.02337 164.02717,13.60924 44.55333,44.40909 91.28871,88.81818 126.78082,133.22727 43.16285,-17.61549 58.70098,86.7782 80.22289,164.7435 43.69969,-16.0993 140.05688,20.9654 94.54841,-89.5345 13.12606,51.3707 -28.65304,122.2209 -61.59972,14.3255 -60.82545,-36.5868 -68.08063,-89.8428 -82.37173,-138.95752 -62.61304,11.06904 -55.12451,-11.85055 -57.30206,-30.08356"
+       id="path1145"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccsccc" />
+       sodipodi:nodetypes="ccccccccc" />
   </g>
   <g
      id="camera-path"
      name="toto"
      display="true"
-     style="fill:none">
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+     transform="matrix(-0.35508136,-0.27080883,0.3869846,-0.24848319,199.31295,1184.5151)">
     <path
-       style="fill:none;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 395.01768,857.30441 61.691806,953.3546 C 48.1316,980.2594 30.041724,980.06223 30.041724,980.06223 l -12.655593,42.94867"
-       id="path13275"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 383.92385,852.37874 v 15.75807 l 172.62247,14.32551 119.61807,129.64588 80.22289,169.7574 83.088,-85.2368 -60.88345,14.3255 -75.20896,-151.85046 -55.86951,-25.06966"
+       id="path1182"
+       inkscape:connector-curvature="0" />
   </g>
   <text
      xml:space="preserve"
@@ -1186,49 +1187,78 @@
      rx="1.054515"
      ry="3.22718" />
   <ellipse
-     style="opacity:0;fill:#000000;stroke:#fb0000;stroke-opacity:1"
+     style="opacity:0;fill:#000000;stroke:#fb0000;stroke-width:0.97111326;stroke-opacity:1"
      id="path11902"
-     cx="210.70963"
+     cx="451.79578"
      cy="803.42371"
-     rx="52.564381"
-     ry="22.720806" />
+     rx="49.539928"
+     ry="22.735249" />
   <g
      id="points"
-     display="none">
+     display="true"
+     style="fill:#e70000;fill-opacity:1">
     <circle
        id="Fontaines-sur-saône"
        display="inline"
-       fill="#405b54"
        cx="394.71823"
        cy="853.02484"
-       r="5.782" />
+       r="5.7820001"
+       style="display:inline;fill:#dc0000;fill-opacity:1" />
     <circle
-       id="✈︎ Lyon, St-exupéry"
+       id="Saint exupéry"
        display="inline"
-       fill="#405b54"
        cx="394.43207"
        cy="857.18884"
-       r="5.782" />
+       r="5.7820001"
+       style="display:inline;fill:#e70000;fill-opacity:1" />
     <circle
        display="inline"
-       fill="#405b54"
-       id="Porto"
-       cx="60.717064"
-       cy="956.57245"
-       r="5.782" />
+       id="Venise"
+       cx="560.02539"
+       cy="870.71008"
+       r="5.7820001"
+       style="display:inline;fill:#e70000;fill-opacity:1" />
     <circle
        display="inline"
-       fill="#405b54"
-       id="Colimbre"
-       cx="64.922226"
-       cy="981.18573"
-       r="5.782" />
+       id="Pirée/Athènes"
+       cx="859.16205"
+       cy="1077.9138"
+       r="5.7820001"
+       style="display:inline;fill:#e70000;fill-opacity:1" />
+    <circle
+       style="display:inline;fill:#e70000;fill-opacity:1"
+       r="5.7820001"
+       cy="1003.4608"
+       cx="685.43823"
+       id="Bari"
+       display="inline" />
     <circle
        display="inline"
-       fill="#405b54"
-       id="Lisbonne"
-       cx="32.475475"
-       cy="1022.261"
-       r="5.782" />
+       id="Etape en mer"
+       cx="764.58667"
+       cy="1166.7717"
+       r="5.7820001"
+       style="display:inline;fill:#e70000;fill-opacity:1" />
+    <circle
+       style="display:inline;fill:#e70000;fill-opacity:1"
+       r="5.7820001"
+       cy="1093.7117"
+       cx="798.25165"
+       id="Katakolon"
+       display="inline" />
+    <circle
+       display="inline"
+       id="Kotor"
+       cx="715.87988"
+       cy="954.03784"
+       r="5.7820001"
+       style="display:inline;fill:#e70000;fill-opacity:1" />
+    <circle
+       style="display:inline;fill:#e70000;fill-opacity:1"
+       r="5.7820001"
+       cy="925.38684"
+       cx="659.29419"
+       id="Split"
+       display="inline" />
   </g>
 </svg>
