@@ -294,7 +294,6 @@ const CanvasMap=(props)=>{
           let iconImg=document.createElement('img')
           iconImg.setAttribute('src',icon)
           let iconNotScaleOption = iconNotScale!= null
-          console.log({iconImg,iconNotScaleOption});
           return {iconImg,iconNotScaleOption}
         }
         return null
