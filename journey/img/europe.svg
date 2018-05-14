@@ -53,9 +53,9 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="5.5844408"
-     inkscape:cx="345.90779"
-     inkscape:cy="303.67162"
+     inkscape:zoom="2.7922204"
+     inkscape:cx="678.97605"
+     inkscape:cy="117.4399"
      inkscape:current-layer="svg2"
      inkscape:snap-others="false"
      inkscape:window-x="6"
@@ -1165,9 +1165,10 @@
      transform="matrix(-0.35508136,-0.27080883,0.3869846,-0.24848319,199.31295,1184.5151)">
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 383.92385,852.37874 v 15.75807 l 172.62247,14.32551 119.61807,129.64588 80.22289,169.7574 83.088,-85.2368 -60.88345,14.3255 -75.20896,-151.85046 -55.86951,-25.06966"
+       d="m 383.92385,852.37874 v 15.75807 l 172.62247,14.32551 119.61807,129.64588 63.39042,98.1299 99.92047,-13.6093 -60.88345,14.3255 -75.20896,-151.85046 -55.86951,-25.06966"
        id="path1182"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
   </g>
   <text
      xml:space="preserve"
