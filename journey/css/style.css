@@ -42,6 +42,10 @@ a:focus {
 	color: #33b996;
 }
 
+video {
+	width: 100%;
+}
+
 .hidden {
 	position: absolute;
 	overflow: hidden;
