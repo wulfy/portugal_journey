@@ -1,18 +1,26 @@
-module.exports={
-  context: __dirname + "/src",
+const path = require('path');
+
+module.exports = {
+  context: path.resolve(__dirname, "src"),
   entry: "./index",
-  output:{
-    filename:"app.js",
-    path:__dirname+"/dist"
+  output: {
+    filename: "app.js",
+    path: path.resolve(__dirname, "dist")
   },
   module: {
-    loaders: [
+    rules: [
       {
         test: /\.jsx?$/,
         exclude: /(node_modules|bower_components)/,
-        loader: 'babel-loader',
-        query: {
-          presets: ['es2015']
+        use: {
+          loader: 'babel-loader',
+          options: {
+            presets: [
+              ['@babel/preset-env', {
+                useBuiltIns: false
+              }]
+            ]
+          }
         }
       }
     ]
